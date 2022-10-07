@@ -66,7 +66,9 @@ Read more here: https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.183.125
 
 ## Step 3: visualize
 
-1. Render the data on a map displaying the various clusters
+1. Render the data on a map displaying the various weighted airports!
+
+Feel free to be creative!
 
 Read more about spectral layouts here:
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.2055&rep=rep1&type=pdf
