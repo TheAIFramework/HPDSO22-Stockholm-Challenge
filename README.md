@@ -4,7 +4,7 @@ This is it! This is where data scientists can flex :)
 
 The short challenge should require less than ~100 lines of code in total. Let's goooo!
 
-Your submission should be hosted on an internet accessible git-repo so it can be cloned. Include a README.md with *extremely* clear instructions on how to set up your code and run it. Email the link to your submission to robert@taif.co no later than 23:00 October 26th. Any commits after the deadline will not be used.
+Your submission should be hosted on an internet accessible git-repo so it can be cloned. Include a README.md with *extremely* clear instructions on how to set up your code and run it. Email the link to your submission to robert@taif.co no later than 23:00 October 26th. Any commits after the deadline will not be used. Should the winners wish and be able to, 
 
 ## Instructions
 
@@ -17,6 +17,8 @@ Although this repo only includes one example file, expect us to test the code on
 2. Process Challenge STEP 1 and STEP 2 as quickly as possible. 
 
 Time your code from the moment it reads data, until it has completed STEP 2 and prints the result.
+
+3. Create a README.md with instructions, and credits to 3 people that worked on the project.
 
 **The winner will be selected according to 3 criteria: correctness, speed, and elegance.**
 
