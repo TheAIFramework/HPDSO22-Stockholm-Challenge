@@ -2,7 +2,8 @@
 
 This is it! This is where data scientists can flex :)
 
-The short challenge should require less than ~100 lines of code in total. Let's goooo!
+This short challenge should require less than ~100 lines of code in total. Let's goooo!
+(note: You can definitely use more LOC if you want to. No big deal. XD)
 
 Your submission should be hosted on an internet accessible git-repo so it can be cloned. Include a README.md with *extremely* clear instructions on how to set up your code and run it. Email the link to your submission to robert@taif.co no later than 23:00 October 26th. Any commits after the deadline will not be used. Should the winners wish and be able to, they may present their work on 28th during the HPDSO22-Stockholm closing day!
 
@@ -45,7 +46,7 @@ Read more here: https://en.wikipedia.org/wiki/X.690#BER_encoding
 Note that this is just a small subset with 10 million samples.
 Your code should be instrumented to take folders as an argument and read all the *.bin files in them.
 
-If you're having trouble reading the binary file, you may use the CSV file, though it may be counted against your final result. 
+If you're having trouble reading the binary file, you may use the `dat.csv` file, though it may be counted against your final result. 
 
 Each sample (binary frame or CSV row) has four Float32 values.
 They are the source and the destination coordinates of flights.
