@@ -6,6 +6,8 @@ This short challenge should require less than ~100 lines of code in total. Let's
 
 (note: You can definitely use more LOC if you want to. No big deal. XD)
 
+If you wish, you may target the following machine: Ubuntu 22.04 x64 | 72 vCPUs in 2 NUMA zones | 384GB of RAM | 2x Quadro RTX 8000 with 40GB each | 2x Opteron drives with 256GB of storage
+
 Your submission should be hosted on an internet accessible git-repo so it can be cloned. Include a README.md with *extremely* clear instructions on how to set up your code and run it. Email the link to your submission to robert@taif.co no later than 23:00 October 26th. Any commits after the deadline will not be used. Should the winners wish and be able to, they may present their work on 28th during the HPDSO22-Stockholm closing day!
 
 Don't forget to register participation at the [event page](https://www.hyperightdataclub.com/hp-data-science-open-stockholm/)
