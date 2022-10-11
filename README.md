@@ -3,6 +3,7 @@
 This is it! This is where data scientists can flex :)
 
 This short challenge should require less than ~100 lines of code in total. Let's goooo!
+
 (note: You can definitely use more LOC if you want to. No big deal. XD)
 
 Your submission should be hosted on an internet accessible git-repo so it can be cloned. Include a README.md with *extremely* clear instructions on how to set up your code and run it. Email the link to your submission to robert@taif.co no later than 23:00 October 26th. Any commits after the deadline will not be used. Should the winners wish and be able to, they may present their work on 28th during the HPDSO22-Stockholm closing day!
