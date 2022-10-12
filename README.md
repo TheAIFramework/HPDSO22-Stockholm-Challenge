@@ -10,7 +10,7 @@ If you wish, you may target the following machine: Ubuntu 22.04 x64 | 72 vCPUs i
 
 Your submission should be hosted on an internet accessible git-repo so it can be cloned. Include a README.md with *extremely* clear instructions on how to set up your code and run it. Email the link to your submission to robert@taif.co no later than 23:00 October 26th. Any commits after the deadline will not be used. Should the winners wish and be able to, they may present their work on 28th during the HPDSO22-Stockholm closing day!
 
-Don't forget to register participation at the [event page](https://www.hyperightdataclub.com/hp-data-science-open-stockholm/)
+Don't forget to register participation at the [event page](https://www.hyperightdataclub.com/register-hp-data-science-open/))
 
 ## Instructions
 
@@ -62,7 +62,10 @@ You will find that some airports are busier than others.
 
 Your task is to model the data in the following way
 1. create an undirected graph with edge-weights set to the number of trips.
-2. Perform hierarchical clustering on the graph distance matrix using mean distance similarity linkage.
+
+So if there are 21 trips from airport A to airport B, that will be the edge weight. Even if you can potentially do a walk across the graph from airports A -> B -> C, that does not mean you should add an extra edge from A -> C. To be overly clear, the "distance" in your resulting [distance matrix](https://en.wikipedia.org/wiki/Distance_matrix)) or [COO distance vector](https://en.wikipedia.org/wiki/Adjacency_list) should be the number of trips between airports. It has nothing to do with travel distance of airplanes.
+
+2. Perform hierarchical clustering on the graph using mean edge weight similarity linkage.
 
 Read more here: https://en.wikipedia.org/wiki/Hierarchical_clustering
 
